@@ -82,3 +82,10 @@ Script giao diện (`gui.py`) cung cấp một ứng dụng đồ họa đơn gi
     python training_script.py
 [3] chạy file app
     python inference_script.py 
+```
+Demo:
+![image](https://github.com/user-attachments/assets/54820537-7815-4ce0-9b33-c781c3af28a7)
+Hình 1:  test trên tập dữ liệu mới mẫu 1
+![image](https://github.com/user-attachments/assets/19818075-4c5d-462c-b3ac-137e4eea74e2)
+Hình 2: test trên dữ liệu mới mẫu 2
+
